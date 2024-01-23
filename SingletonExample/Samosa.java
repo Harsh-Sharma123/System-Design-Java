@@ -12,7 +12,7 @@ public class Samosa{
     private static Samosa samosa = new Samosa();
 
     private Samosa(){
-
+        
     }
 
     public static Samosa getSamosa(){
